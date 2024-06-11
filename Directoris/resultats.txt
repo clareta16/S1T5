@@ -1,0 +1,12 @@
+/Users/clara/IdeaProjects/S1T5/Directoris/.DS_Store és un F modificat per última vegada el 06/06/2024 10:53:05
+/Users/clara/IdeaProjects/S1T5/Directoris/Directori1 és un D modificat per última vegada el 06/06/2024 10:53:20
+/Users/clara/IdeaProjects/S1T5/Directoris/Directori1/.DS_Store és un F modificat per última vegada el 07/06/2024 09:59:14
+/Users/clara/IdeaProjects/S1T5/Directoris/Directori1/as.txt és un F modificat per última vegada el 03/06/2024 10:37:31
+/Users/clara/IdeaProjects/S1T5/Directoris/Directori1/dfg.txt és un F modificat per última vegada el 03/06/2024 10:37:31
+/Users/clara/IdeaProjects/S1T5/Directoris/Directori1/llista.txt és un F modificat per última vegada el 03/06/2024 10:37:31
+/Users/clara/IdeaProjects/S1T5/Directoris/hola és un D modificat per última vegada el 06/06/2024 10:53:05
+/Users/clara/IdeaProjects/S1T5/Directoris/hola/.DS_Store és un F modificat per última vegada el 06/06/2024 10:53:05
+/Users/clara/IdeaProjects/S1T5/Directoris/hola/patata és un D modificat per última vegada el 03/06/2024 12:11:21
+/Users/clara/IdeaProjects/S1T5/Directoris/hola/patata/Salutació.txt és un F modificat per última vegada el 03/06/2024 10:42:39
+/Users/clara/IdeaProjects/S1T5/Directoris/hola/prova.txt és un F modificat per última vegada el 03/06/2024 10:44:07
+/Users/clara/IdeaProjects/S1T5/Directoris/resultats.txt és un F modificat per última vegada el 11/06/2024 11:16:16
