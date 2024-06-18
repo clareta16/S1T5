@@ -17,13 +17,13 @@ public class Directori {
         }
 
         public static Persona desserialitzarObjecte(String fitxer){
+            Persona person = null;
             try(ObjectInputStream objectInputStream = new ObjectInputStream(new FileInputStream(fitxer))){
-                Persona person = (Persona) objectInputStream.readObject();
-                return person;
+                person = (Persona) objectInputStream.readObject();
 
             } catch (IOException | ClassNotFoundException e) {
                 System.out.println(e.getMessage());
-                return null;
             }
+            return person;
         }
     }

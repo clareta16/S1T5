@@ -1,11 +1,12 @@
 package n1exercici1;
 
 import java.io.File;
+import java.nio.file.Paths;
 import java.util.Arrays;
 
 public class LlistarDirectori {
 
-    String rutaDirectori = "/Users/clara/IdeaProjects/S1T5/Directoris/Directori1";
+    String rutaDirectori = Paths.get("Directoris", "Directori1").toString();
     File carpeta = new File(rutaDirectori);
 
     public void accedirDirectori(File carpeta) {
