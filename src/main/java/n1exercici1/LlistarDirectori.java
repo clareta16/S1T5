@@ -15,7 +15,7 @@ public class LlistarDirectori {
     } else {
         ordenarDirectori(carpeta);
     }
-    //
+
     }
 
     public void ordenarDirectori(File carpeta) {
